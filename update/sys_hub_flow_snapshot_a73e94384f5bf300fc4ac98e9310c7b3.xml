@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow_snapshot">
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
+        <acls/>
         <active>true</active>
         <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
         <category/>
         <copied_from/>
         <copied_from_name/>
@@ -14,6 +16,7 @@
         <outputs/>
         <parent_flow display_value="NeedIt Fulfillment">e116d8f04f5bf300fc4ac98e9310c716</parent_flow>
         <remote_trigger_id/>
+        <run_as>system</run_as>
         <sc_callable>false</sc_callable>
         <status>published</status>
         <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
