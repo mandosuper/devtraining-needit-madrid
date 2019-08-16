@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_folder">
+    <sys_sg_folder action="INSERT_OR_UPDATE">
+        <application display_value="NeedIt">475e7b654f133300fc4ac98e9310c70d</application>
+        <name>My NeedIt</name>
+        <order>1</order>
+        <sys_class_name>sys_sg_folder</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-16 14:33:35</sys_created_on>
+        <sys_id>c35eb7214f533300fc4ac98e9310c729</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>My NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_folder_c35eb7214f533300fc4ac98e9310c729</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-16 15:12:17</sys_updated_on>
+    </sys_sg_folder>
+</record_update>
